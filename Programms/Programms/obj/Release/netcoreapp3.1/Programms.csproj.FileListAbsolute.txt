@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Programms\Programms\bin\Release\netcoreapp3.1\Programms.exe
+C:\Users\Admin\source\repos\Programms\Programms\bin\Release\netcoreapp3.1\Programms.deps.json
+C:\Users\Admin\source\repos\Programms\Programms\bin\Release\netcoreapp3.1\Programms.runtimeconfig.json
+C:\Users\Admin\source\repos\Programms\Programms\bin\Release\netcoreapp3.1\Programms.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Programms\Programms\bin\Release\netcoreapp3.1\Programms.dll
+C:\Users\Admin\source\repos\Programms\Programms\bin\Release\netcoreapp3.1\Programms.pdb
+C:\Users\Admin\source\repos\Programms\Programms\obj\Release\netcoreapp3.1\Programms.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Programms\Programms\obj\Release\netcoreapp3.1\Programms.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Programms\Programms\obj\Release\netcoreapp3.1\Programms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Programms\Programms\obj\Release\netcoreapp3.1\Programms.dll
+C:\Users\Admin\source\repos\Programms\Programms\obj\Release\netcoreapp3.1\Programms.pdb
+C:\Users\Admin\source\repos\Programms\Programms\obj\Release\netcoreapp3.1\Programms.genruntimeconfig.cache
